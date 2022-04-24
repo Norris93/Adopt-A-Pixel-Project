@@ -1,0 +1,36 @@
+MUC ,MUC Classification
+M01,Mainly Evergreen
+M02,Mainly Deciduous
+M03,Extremely Xeromorphic (Dry)
+M11,Woodland with Mainly Evergreen
+M12,Woodland with Mainly Deciduous Trees
+M13,Extremely Xeromorphic (Dry) Woodland
+M21,Mainly Evergreen (Shrubland or Thicket)
+M22,Mainly Deciduous ( Shrubland or Thicket)
+M23,Extremely Xeromorphic (Subdesert( Shrubland)
+M31,Mainly Evergreen (Dwarf-Shrubland or Dwarf-Thicket)
+M32,Mainly Deciduous (Dwarf-Shrubland or Dwarf-Thicket)
+M33,Extremely Xeromorphic (Subdesert) Dwarf-Shrubland
+M34,Tundra
+M41,Tall Graminoid Vegetation (Tall Grassland)
+M42 ,Medium-Tall Graminoid
+M43,Short Graminoid
+M44,Forb Vegetation
+M53,"Barren Land, Bare Rock"
+M54 ,"Barren Land, Perennial Snowfields"
+M55,"Barren Land, Glaciers"
+M51,"Barren Land, Dry Salt Flats"
+M52,"Barren Land, Sandy Areas"
+M56,"Barren Land, Other"
+M61,"Wetland, Riverine"
+M62,"Wetland, Palustrine"
+M63,"Wetland, Estuarine"
+M64,"Wetland, Lacustrine"
+M71,"Open Water, Freshwater"
+M72,"Open Water, Marine"
+M81,Agriculture
+M82,Non-Agriculture
+M91,"Urban, Residential"
+M92,"Urban, Commerical and Industrial"
+M93,"Urban, Transportation"
+M94,"Urban, Other"
